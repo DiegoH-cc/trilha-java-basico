@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/aulas/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/src/aulas/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/aulas/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/src/aulas/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java-basico.iml" filepath="$PROJECT_DIR$/trilha-java-basico.iml" />
+    </modules>
+  </component>
+</project>
